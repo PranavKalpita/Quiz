@@ -1,0 +1,8 @@
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.csproj.AssemblyReference.cache
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.AssemblyInfoInputs.cache
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.AssemblyInfo.cs
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PranavKumar\Desktop\CollegeProject\Quiz\Quiz.WebApi\obj\Debug\net8.0\Quiz.WebApi.sourcelink.json

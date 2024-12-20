@@ -2123,7 +2123,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PranavKumar\\.nuget\\packages\\": {},
+    "C:\\Users\\ITAdmin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -2132,14 +2132,14 @@
       "projectUniqueName": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\Quiz\\Quiz.WebApi\\Quiz.WebApi.csproj",
       "projectName": "Quiz.WebApi",
       "projectPath": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\Quiz\\Quiz.WebApi\\Quiz.WebApi.csproj",
-      "packagesPath": "C:\\Users\\PranavKumar\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ITAdmin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\Quiz\\Quiz.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PranavKumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ITAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
